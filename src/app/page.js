@@ -11,37 +11,37 @@ export default function PortfolioWebsite() {
       title: "Bikapacking Adventure",
       category: "Long-Form Edit",
       description:
-        "Bikepacking and outdoor adventure edit focused on cinematic transitions and storytelling.",
+        "An adventure documentary created with a cinematic and storytelling-focused approach, documenting my first solo bikepacking experience. The film follows my MTB journey toward a remote campsite where I arrived and spent the experience completely alone. Through immersive riding footage, environmental storytelling, camp routines, shelter setup, cooking, and river scenes, the video is crafted to capture not only the adventure itself but also the atmosphere, emotion, and quiet freedom of solo outdoor travel.",
       image: bikepackingImg,
       link: "https://youtu.be/VLDI2_chAPQ?si=gXG0y--LmhJT_Z34",
        vertical: false,
     },
 
     {
-      title: "Motorcycle Adventure Reel",
-      category: "Short-Form Edit",
+      title: "Motorcycle POV + Drone shot",
+      category: "Short-Form Edit / Lansdscape",
       description:
-        "Fast-paced riding and outdoor adventure edit focused on cinematic transitions and storytelling.",
+        "A short-form cinematic video featuring a motorcycle POV journey, beach landscapes, and drone aerial footage. The reel captures the peaceful atmosphere of provincial life, highlighting ocean views, mountain scenery, and authentic moments of children enjoying the shoreline.",
       image: motorcycleImg,
       link: "https://drive.google.com/file/d/1iK7I3RuWL1KuOfKe6RpkO7_p-r-jGrxQ/view?usp=drive_link",
        vertical: false,
     },
 
     {
-      title: "Fitness Motivation Edit",
-      category: "TikTok / Reels",
+      title: "Bikepacking Trailer",
+      category: "Short-Form Edit",
       description:
-        "Workout-focused short-form edit with captions, beat-sync cuts, and motivational pacing.",
+        "Short-form trailer of a solo bikepacking adventure, featuring MTB riding, camp setup, cooking, and river scenes — designed as a preview of the full YouTube story.",
       image: mtbImg,
-      link: "https://drive.google.com/file/d/1v5avBLfxtys-m3p_gfW_aI1gwrBWR34v/view?usp=sharing",
+      link: "https://youtube.com/shorts/eB8BeQDbqVo?si=I5t87UUtWSPD53R1",
       vertical: true,
     },
     
     {
       title: "Pet Content Edit",
-      category: "Funny Short-Form",
+      category: "Tiktok / Reels",
       description:
-        "Lighthearted cat content using meme-style pacing, captions, and trending audio concepts.",
+        "A cinematic short-form reel featuring two curious outdoor cats exploring a peaceful garden, capturing cute and funny moments through smooth visuals and cozy natural lighting. Styled with a soft cinematic aesthetic and paired with a relaxing soundtrack, the video creates a wholesome and playful atmosphere perfect for TikTok and Reels.",
       image: ragleyImg,
       link: "https://www.tiktok.com/@rayleighandragley/video/7489054924827872520?_r=1&_t=ZS-96ZDOt5jm77",
       vertical: true
@@ -53,6 +53,8 @@ export default function PortfolioWebsite() {
   const skills = [
     "CapCut Pro",
     "Adobe Photoshop",
+    "Adobe Illustrator",
+    "Insta360 Studio",
     "YouTube Editing",
     "Instagram Reels",
     "TikTok Editing",
@@ -61,6 +63,8 @@ export default function PortfolioWebsite() {
     "Social Media Content",
     "Video Pacing",
     "Content Planning",
+    "ChatGPT",
+    "Drone Pilot",
   ];
 
   return (
