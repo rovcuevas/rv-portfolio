@@ -8,7 +8,7 @@ import ragleyImg from "../images/ragley.png";
 export default function PortfolioWebsite() {
   const portfolioItems = [
     {
-      title: "Bikapacking Adventure",
+      title: "Bikepacking Adventure",
       category: "Long-Form Edit",
       description:
         "An adventure documentary created with a cinematic and storytelling-focused approach, documenting my first solo bikepacking experience. The film follows my MTB journey toward a remote campsite where I arrived and spent the experience completely alone. Through immersive riding footage, environmental storytelling, camp routines, shelter setup, cooking, and river scenes, the video is crafted to capture not only the adventure itself but also the atmosphere, emotion, and quiet freedom of solo outdoor travel.",
