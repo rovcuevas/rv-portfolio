@@ -2,7 +2,8 @@ import bikepackingImg from "../images/bikepacking.png";
 import motorcycleImg from "../images/motorcycle.jpg";
 import mtbImg from "../images/mtb.png";
 import ragleyImg from "../images/ragley.png"; 
-import kickstartImg from "../images/kickstart.png"; 
+import kickstartImg from "../images/kickstart.png";
+import busyImg from "../images/busy.jpg";
 
 
 export default function PortfolioWebsite() {
@@ -39,7 +40,7 @@ export default function PortfolioWebsite() {
     
     {
       title: "Pet Content Edit",
-      category: "Tiktok / Reels",
+      category: "Tiktok / Reels / Shorts",
       description:
         "A cinematic short-form reel featuring two curious outdoor cats exploring a peaceful garden, capturing cute and funny moments through smooth visuals and cozy natural lighting. Styled with a soft cinematic aesthetic and paired with a relaxing soundtrack, the video creates a wholesome and playful atmosphere perfect for TikTok and Reels.",
       image: ragleyImg,
@@ -49,13 +50,27 @@ export default function PortfolioWebsite() {
 
     {
       title: "Brand and promo video",
-      category: "Tiktok / Reels",
+      category: "Tiktok / Reels / Shorts",
       description:
-        "A cinematic short-form promotional reel created for FUTXPERFORM, focused on motivating aspiring footballers to pursue global opportunities and professional growth. The edit combines dynamic football visuals, bold typography, motion graphics, and engagement-focused storytelling inspired by modern sports branding and social media marketing strategies. To align closely with the brand’s existing content style, the talking head featured in the reel was recreated using an AI-generated avatar based on their original speaker, including a cloned voice designed to closely match the original tone and delivery.",
+        "A short-form promotional reel created for a brand focused on motivating aspiring footballers to pursue global opportunities and professional growth. The edit combines dynamic football visuals, bold typography, motion graphics, and engagement-focused storytelling inspired by modern sports branding and social media marketing strategies. To align closely with the brand’s existing content style, the talking head featured in the reel was recreated using an AI-generated avatar based on their original speaker, including a cloned voice designed to closely match the original tone and delivery.",
       image: kickstartImg,
       link: "https://drive.google.com/file/d/1vsUjaMabX3OzKDrqnOys7uzmJI5kByEh/view?usp=sharing",
       vertical: true
     },
+
+    {
+      title: "Brand and promo video",
+      category: "Tiktok / Reels / Shorts",
+      description:
+        "Short-form reel edited from a talking-head video, enhanced with b-roll, client footage, stock footage, dynamic captions, sound design, and music. The edit focuses on maximizing audience engagement while visually reinforcing the message of prioritizing output, systems, and leverage over long work hours.",
+      image: busyImg,
+      link: "https://drive.google.com/file/d/1DujbbCitHpOp02Y3i2wCskt53VHRqIZB/view?usp=sharing",
+      vertical: true
+    },
+    
+
+    
+    
 
 
   ];
