@@ -4,6 +4,9 @@ import mtbImg from "../images/mtb.png";
 import ragleyImg from "../images/ragley.png"; 
 import kickstartImg from "../images/kickstart.png";
 import busyImg from "../images/busy.jpg";
+import agencyImg from "../images/agency.jpg";
+import easyImg from "../images/easy.png";
+
 
 
 export default function PortfolioWebsite() {
@@ -67,7 +70,26 @@ export default function PortfolioWebsite() {
       link: "https://drive.google.com/file/d/1DujbbCitHpOp02Y3i2wCskt53VHRqIZB/view?usp=sharing",
       vertical: true
     },
+
+    {
+      title: "Brand and promo video",
+      category: "Tiktok / Reels / Shorts",
+      description:
+        "Edited a high-retention Instagram reel featuring dynamic captions, stock footage integration, sound design, and music. The edit was crafted to maintain viewer engagement while visually supporting the creator's message on scaling agencies through systems and leverage rather than labor.",
+      image: agencyImg,
+      link: "https://drive.google.com/file/d/1YuagJrNaqVLl5nygYhF3AmCfdQ0-bfnR/view?usp=drive_link",
+      vertical: true
+    },
     
+    {
+      title: "Brand and promo video",
+      category: "Tiktok / Reels / Shorts",
+      description:
+        "A short-form promotional reel created for a brand focused on motivating aspiring footballers to pursue global opportunities and professional growth. The edit combines dynamic football visuals, bold typography, motion graphics, and engagement-focused storytelling inspired by modern sports branding and social media marketing strategies. To align closely with the brand’s existing content style, ",
+      image: easyImg,
+      link: "https://drive.google.com/file/d/1yDEb9chqYvusroYCdmDaU7O9xmmVbyf5/view?usp=sharing",
+      vertical: true
+    },
 
     
     
