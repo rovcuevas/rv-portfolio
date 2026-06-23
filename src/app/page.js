@@ -6,6 +6,7 @@ import kickstartImg from "../images/kickstart.png";
 import busyImg from "../images/busy.jpg";
 import agencyImg from "../images/agency.jpg";
 import easyImg from "../images/easy.png";
+import procrastinationImg from "../images/procrastination.jpg";
 
 
 
@@ -85,11 +86,22 @@ export default function PortfolioWebsite() {
       title: "Brand and promo video",
       category: "Tiktok / Reels / Shorts",
       description:
-        "A short-form promotional reel created for a brand focused on motivating aspiring footballers to pursue global opportunities and professional growth. The edit combines dynamic football visuals, bold typography, motion graphics, and engagement-focused storytelling inspired by modern sports branding and social media marketing strategies. To align closely with the brand’s existing content style, ",
+        "A short-form promotional reel created for a brand focused on motivating aspiring footballers to pursue global opportunities and professional growth. The edit combines dynamic football visuals, bold typography, motion graphics, and engagement-focused storytelling inspired by modern sports branding and social media marketing strategies.",
       image: easyImg,
       link: "https://drive.google.com/file/d/1yDEb9chqYvusroYCdmDaU7O9xmmVbyf5/view?usp=sharing",
       vertical: true
     },
+
+    {
+      title: "Motivational talking-head",
+      category: "Tiktok / Reels / Shorts",
+      description:
+        "A short-form talking-head reel edited from raw footage of a creator discussing procrastination and taking action. I handled the complete post-production process, including content selection, removal of dead space and mistakes, captioning, dynamic zooms, background music selection, and color grading to create a clean, engaging, and retention-focused final video optimized for Reels, Shorts, and TikTok.",
+      image: procrastinationImg,
+      link: "https://drive.google.com/file/d/151QjoiEqAJA1nCa7NoFk214Amxc7n0B7/view?usp=sharing",
+      vertical: true
+    },
+
 
     
     
